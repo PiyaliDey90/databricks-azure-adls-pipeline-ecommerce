@@ -43,3 +43,10 @@ databricks-azure-adls-pipeline-ecommerce/
 ├── 4_dashboarding/
 ├── resources/
 └── README.md
+
+
+## Architecture Diagram
+![Architecture Diagram](resources/project_architecture.png)
+
+## Dashboard Preview
+![Dashboard Preview](resources/ecommerce_analytics_report.jpg)
