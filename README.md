@@ -33,6 +33,12 @@ The pipeline is organized into multiple layers and processing stages:
 - Build Power BI dashboard for e-commerce analytics
 - Visualize revenue trends, customer behavior, and product insights
 
+## Architecture Diagram
+![Architecture Diagram](resources/project_architecture.png)
+
+## Dashboard Preview
+![Dashboard Preview](resources/ecommerce_analytics_report.jpg)
+
 ## Folder Structure
 ```text
 databricks-azure-adls-pipeline-ecommerce/
@@ -45,8 +51,6 @@ databricks-azure-adls-pipeline-ecommerce/
 └── README.md
 
 
-## Architecture Diagram
-![Architecture Diagram](resources/project_architecture.png)
 
 ## Dashboard Preview
 ![Dashboard Preview](resources/ecommerce_analytics_report.jpg)
